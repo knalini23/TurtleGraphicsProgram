@@ -1,0 +1,4 @@
+red
+circle 90
+orange
+circle 100

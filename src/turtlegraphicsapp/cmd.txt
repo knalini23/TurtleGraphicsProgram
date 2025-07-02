@@ -1,0 +1,2 @@
+triangle 90
+circle 90
